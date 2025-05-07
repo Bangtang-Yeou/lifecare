@@ -1,6 +1,6 @@
 {
   "attendance_text_identifier": "현재_월_출석체크_텍스트",
   "roulette_text_identifier": "현재_룰렛_텍스트",
-  "fallback_attendance_url": "https://lgm.lglifecare.com/eventExhibition/xxxx",
-  "fallback_roulette_url": "https://lgm.lglifecare.com/eventExhibition/yyyy"
+  "primary_attendance_url": "https://lgm.lglifecare.com/eventExhibition/6319",
+  "primary_roulette_url": "https://lgm.lglifecare.com/eventExhibition/6364"
 }
